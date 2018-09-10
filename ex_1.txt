@@ -1,1 +1,1 @@
-this is a file for learning git.
+this is one file for learning git.
